@@ -10,13 +10,13 @@ A sophisticated, modern art museum website built with cutting-edge web technolog
 ## 📸 Screenshots
 
 ### Homepage
-![Musea Homepage](./docs/screenshots/homepage.png)
+<img width="2245" height="1283" alt="Image" src="https://github.com/user-attachments/assets/b2c8423e-32be-4e2b-9130-5b1c57819318" />
 
 ### Exhibitions Page
-![Exhibitions](./docs/screenshots/exhibitions.png)
+<img width="2350" height="1311" alt="Image" src="https://github.com/user-attachments/assets/1c648ad0-efc8-4747-9e29-6a60b87c288a" />
 
 ### Collections Gallery
-![Collections](./docs/screenshots/collections.png)
+<img width="2314" height="1311" alt="Image" src="https://github.com/user-attachments/assets/636a4dae-e4e7-4cd6-accd-613fc85ee184" />
 
 ## ✨ Features
 
@@ -287,7 +287,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 **Hakan Gök**
 - GitHub: [@hakangokdev](https://github.com/hakangokdev)
 - LinkedIn: [Hakan Gök](https://linkedin.com/in/hakangokdev)
-- Website: [hakangok.dev](https://hakangok.dev)
+- Website: [hakangok.tech](https://hakangok.tech)
 
 ## 🙏 Acknowledgments
 
